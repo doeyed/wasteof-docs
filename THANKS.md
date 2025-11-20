@@ -2,6 +2,7 @@
 
 special thanks to the following contributors/community members (in alphabetical order):
 - [Ankit_Anmol](https://github.com/Quantum-Codes)
+- [errplane](https://github.com/errplanedev)
 - [frostzzone](https://github.com/frostzzone)
 - [jeffalo](https://github.com/jeffalo)
 - [lily celeste newton](https://github.com/TheAwesome98-Real)
