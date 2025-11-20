@@ -10,14 +10,14 @@ the categories will hopefully guide you in the right direction into finding what
 # why
 mostly for two reasons, those being:
 1. it gets exhausting trying to find new endpoints.
-2. there wasn't any public documentation before [wasteof2-docs](https://github.com/wulliy/wasteof2-docs) came.
+2. there wasn't any public documentation before [wasteof2-docs](https://github.com/doeyed/wasteof2-docs) came.
 
 (while official documentation for the site was in the works, it was never finished and was never published.)
 
 but also... it would be nice if there was a big hub that contain all the documentation about the different APIs used around the wasteof.money ecosystem.
 
 # when
-this project originally started in 2021 as a fun side project, just me and a text document in notepad listing down all of the endpoints i found along the way. then, i created the [wasteof2-docs](https://github.com/wulliy/wasteof2-docs) repository because managing a text document in notepad wasn't very fun and it was also very messy. after a little while, the [wasteof.money 3 beta](https://beta.wasteof.money) became public and so did [wasteof3-docs](https://github.com/wulliy/wasteof3-docs).
+this project originally started in 2021 as a fun side project, just me and a text document in notepad listing down all of the endpoints i found along the way. then, i created the [wasteof2-docs](https://github.com/doeyed/wasteof2-docs) repository because managing a text document in notepad wasn't very fun and it was also very messy. after a little while, the [wasteof.money 3 beta](https://beta.wasteof.money) became public and so did [wasteof3-docs](https://github.com/doeyed/wasteof3-docs).
 
 finally, i decided to scratch all of that and to instead make this, where all of the documentation would go instead of being seperated into several different repositories.
 
